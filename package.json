@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "bundle": "vite build",
+    "serve": "vite preview",
+    "dev": "vite"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "vite": "^4.4.0",
+    "vite-plugin-melange": "^2.2.0"
+  }
+}
